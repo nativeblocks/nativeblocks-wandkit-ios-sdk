@@ -1,4 +1,43 @@
-# Nativeblocks iOS SDK
+# NativeblocksWandkit iOS SDK
+
+Please check [Nativeblocks livekit](https://nativeblocks.io/docs/live-kit/swift/) for full implementation,
+
+## Getting Started
+
+To integrate **NativeblocksWandkit** into your project, add it via Swift Package Manager (SPM):
+
+1. Add the library to your `Package.swift` file:
+
+    ```swift
+    dependencies: [
+        .package(
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk.git",
+            .upToNextMajor(from: "1.0.0")
+        ),
+    ],
+    ```
+
+2. Import the library in your Swift file:
+
+    ```swift
+    import NativeblocksWandKit
+    ```
+
+3. Initialize nativeblocks wandkit : 
+
+    ```swift
+    let bundleId = Bundle.main.bundleIdentifier ?? ""
+    _ = NativeblocksManager.getInstance().wandKit(
+        LiveKit(
+            screenSharing: true,
+            screenShareExtention: "\(bundleId).LiveKitExtention",
+            keepScreenOn: true,
+            autoConnect: false
+        )
+    )
+    ```
+
+### Sample App Example
 
 ```swift
 import Nativeblocks
@@ -51,3 +90,12 @@ class AppDelegate: NSObject, UIApplicationDelegate {
     }
 }
 ```
+---
+
+## Additional Resources
+
+- [Nativeblocks Documentation](https://nativeblocks.io/docs/get-started/introduction/)
+- [Nativeblocks livekit](https://nativeblocks.io/docs/live-kit/swift/)
+- [Getting Started with Server-Driven UI](https://nativeblocks.io/blog/server-driven-ui-introduction/)
+
+For any questions or issues, feel free to open an issue in the repository. Happy coding!
