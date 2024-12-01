@@ -13,6 +13,10 @@ let package = Package(
             name: "NativeblocksWandkit",
             targets: ["NativeblocksWandkit"])
     ],
+     dependencies: [
+        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk.git", .upToNextMajor(from: "1.2.0")),
+        .package(url: "https://github.com/AgoraIO/AgoraRtcEngine_iOS.git", .upToNextMajor(from: "4.4.0")),
+    ],
     targets: [
         .binaryTarget(
             name: "NativeblocksWandkit",
