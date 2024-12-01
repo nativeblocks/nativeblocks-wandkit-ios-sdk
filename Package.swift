@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Wandkit",
-            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/blob/main/NativeblocksWandkit.xcframework.zip",
-            checksum: "a901c9afe97af39f4f985fdd46200cc65ea4c61216d8fc93b087efb65f5f515debc5d5a3d92476b946d9ac9e99d39190808236c4415a78c6a6801bd594b77a9c"
+            url: "https://nativeblocks.io/download/ios/NativeblocksWandkit.xcframework.zip",
+            checksum: "1d02b42051ccfc38be8dc8db04e181d7bb7d86aefebacd8a83875c8bc541fa14"
         ),
         .target(
             name: "nativeblocks-ios-sdk",
