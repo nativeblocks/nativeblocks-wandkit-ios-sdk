@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name NativeblocksWandkit
+import AVFoundation
+import AgoraReplayKitExtension
+import AgoraRtcKit
+import Combine
+import Foundation
+import Nativeblocks
+@_exported import NativeblocksWandkit
+import ReplayKit
+import Swift
+import SwiftUI
+import UIKit
+import UserNotifications
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct LiveKit : Nativeblocks.WandKit {
+  public init(screenSharing: Swift.Bool = false, screenShareExtention: Swift.String = "", keepScreenOn: Swift.Bool = true, autoConnect: Swift.Bool = true)
+  public func setup(edition: Nativeblocks.NativeblocksEdition)
+  public func destroy()
+}
+@objc @_inheritsConvenienceInitializers open class LiveKitScreenSharingHandler : AgoraReplayKitExtension.AgoraReplayKitHandler {
+  @objc override dynamic open func broadcastStarted(withSetupInfo setupInfo: [Swift.String : ObjectiveC.NSObject]?)
+  @objc override dynamic public init()
+  @objc deinit
+}
