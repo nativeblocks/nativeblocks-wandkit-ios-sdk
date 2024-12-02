@@ -4,154 +4,121 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NativeblocksWandkit.h</key>
-		<data>
-		8hy5iSvdaLcz8CUByVZWhNyoVRw=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		a/61zg6O98V8h9lH49++Gu6Fwf0=
+		O0MuC8ndD6Lf/O6zUX/1C0XcuIw=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xsGUx22CuvS3KYBCdvpU5h9q78k=
+		9qe8YhDiqQS5CT4cry2cEkdzBlU=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DZgn9dPJ1ELSa+nTfBbfk6PpWEI=
+		BM8kxyWKqcWzNc4JRs2zaUzYQVU=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WpyMHaNQCbmF9/FPQHL7FTqwDI4=
+		2YEf+FbK8Bjkje6LrkZ96bxigI8=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DZgn9dPJ1ELSa+nTfBbfk6PpWEI=
+		BM8kxyWKqcWzNc4JRs2zaUzYQVU=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uDIa++Zz2lYzC7AQ5YLpi9zR3w4=
+		j5NKW+jomCoidYsEIlAPD+AP6HM=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xsGUx22CuvS3KYBCdvpU5h9q78k=
+		9qe8YhDiqQS5CT4cry2cEkdzBlU=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		zMysktYCjAh9rH9FZmcGFFx58KA=
+		0QRMdop7cRUPuj60t9I+WY9ysbo=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DIEGBkoXFQGZHgNd+lW4eSxwjGg=
+		jM52ngqQxk+ncgANZdz+TUcHCKU=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		zMysktYCjAh9rH9FZmcGFFx58KA=
+		0QRMdop7cRUPuj60t9I+WY9ysbo=
 		</data>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FPhUWUIYqSZ8VhYgLtBaTmqksDI=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		WPEx6w7uexawsfv2aMeyhdm3Dvw=
-		</data>
-		<key>build-xcframework.sh</key>
-		<data>
-		DaBGkIQ4kvQGzVzsujdlT+IF3T8=
+		hhT4jT6dnM4y/91yhgwCDeRRJ3Q=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NativeblocksWandkit.h</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7NV8NjHluKWVm9UsgRaUq0Mvcs/JKctQGDeU+t05TXk=
+			8Fdq+wA+fea2FnEzkA30wn19ada3MRdFXdPVmeDTldE=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqHpizv6ASk+ddBYK5lG30zDtyiPI1T/nquKySg+2Zg=
+			eODilzRcrOrbrgcFrXNiEB2vZbw9WjMD8vTDQ+HEBqM=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x04SbjOfSrIkMyixaRMeCjmpYJtSg8FH3oXUN0Dj9Xc=
+			2NCWOYaLWqPrddBrDFAClAnewkvNML2V1mc/wY2D+P0=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			idX9ND/HYO+tIUN4z/2OLgBC06Cn2+kVHNFE81tWCW4=
+			eODilzRcrOrbrgcFrXNiEB2vZbw9WjMD8vTDQ+HEBqM=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x04SbjOfSrIkMyixaRMeCjmpYJtSg8FH3oXUN0Dj9Xc=
+			tc+47Cog0VHt0pwxzKnypKX3uviRufdQwBWUUuMXFOQ=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3pHJ+8GZR+nPgBpk1mGM0ldtRSoUOqZWmWqdaAUc19w=
+			8Fdq+wA+fea2FnEzkA30wn19ada3MRdFXdPVmeDTldE=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqHpizv6ASk+ddBYK5lG30zDtyiPI1T/nquKySg+2Zg=
+			CHbPu7JkYN+7R6AqNgQjY4girD+Bpa4oE7ocYWl2Rog=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8TTaSJQyLeuCmrjm67F6KOae8Njjvw7g/HYQbGQCcEk=
+			k0++locREenbUj9yfcLkuD+O++f1LaCGF/gPzpE+CJc=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kn17Cf2lXZnWL5FnpJDNhkDdtXDJEB9rKYCn7/gbxvE=
+			CHbPu7JkYN+7R6AqNgQjY4girD+Bpa4oE7ocYWl2Rog=
 			</data>
 		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8TTaSJQyLeuCmrjm67F6KOae8Njjvw7g/HYQbGQCcEk=
-			</data>
-		</dict>
-		<key>Modules/NativeblocksWandkit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LTk9nOTl55kW6OMe8b0zcusWFqL3fMcQCTxV+k1ORx0=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			19MQudE2BgW8mT6vgKkzS/vzcacm26TT6bXep50zMXU=
-			</data>
-		</dict>
-		<key>build-xcframework.sh</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cqpIu4FaQfUycmHrUC3VK8jjzoVOGfQ0Epgqc6DH8L4=
+			TCyriKXi5Z0tH7esaXt7xu2HjU76z8Uqy1FifUdr2hw=
 			</data>
 		</dict>
 	</dict>

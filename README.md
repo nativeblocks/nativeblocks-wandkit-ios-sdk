@@ -1,10 +1,10 @@
-# NativeblocksWandkit iOS SDK
+# NativeblocksWandKit iOS SDK
 
 Please check [Nativeblocks livekit](https://nativeblocks.io/docs/live-kit/swift/) for full implementation,
 
 ## Getting Started
 
-To integrate **NativeblocksWandkit** into your project, add it via Swift Package Manager (SPM):
+To integrate **NativeblocksWandKit** into your project, add it via Swift Package Manager (SPM):
 
 1. Add the library to your `Package.swift` file:
 

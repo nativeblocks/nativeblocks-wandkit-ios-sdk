@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "NativeblocksWandkit",
+    name: "NativeblocksWandKit",
     platforms: [
         .iOS(.v15)
     ],
     products: [
         .library(
-            name: "NativeblocksWandkit",
-            targets: ["NativeblocksWandkitPrivate"]
+            name: "NativeblocksWandKit",
+            targets: ["NativeblocksWandKitPrivate"]
         )
     ],
     dependencies: [
@@ -20,13 +20,13 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "NativeblocksWandkit",
-            path: "NativeblocksWandkit.xcframework"
+            name: "NativeblocksWandKit",
+            path: "NativeblocksWandKit.xcframework"
         ),
         .target( 
-            name: "NativeblocksWandkitPrivate",
+            name: "NativeblocksWandKitPrivate",
             dependencies: [
-                "NativeblocksWandkit",
+                "NativeblocksWandKit",
                 .product(name: "Nativeblocks", package: "nativeblocks-ios-sdk"),
                 .product(name: "RtcBasic", package: "AgoraRtcEngine_iOS", condition: .when(platforms: [.iOS])),
                 .product(name: "ReplayKit", package: "AgoraRtcEngine_iOS", condition: .when(platforms: [.iOS])),
