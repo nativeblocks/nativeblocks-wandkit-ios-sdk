@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "Wandkit",
+    name: "NativeblocksWandkit",
     platforms: [
         .iOS(.v15)
     ],
     products: [
         .library(
-            name: "Wandkit",
-            targets: ["Wandkit"]
+            name: "NativeblocksWandkit",
+            targets: ["NativeblocksWandkitPrivate"]
         )
     ],
     dependencies: [
@@ -23,8 +23,8 @@ let package = Package(
             name: "NativeblocksWandkit",
             path: "NativeblocksWandkit.xcframework"
         ),
-        .target(
-            name: "Wandkit",
+        .target( 
+            name: "NativeblocksWandkitPrivate",
             dependencies: [
                 "NativeblocksWandkit",
                 .product(name: "Nativeblocks", package: "nativeblocks-ios-sdk"),
