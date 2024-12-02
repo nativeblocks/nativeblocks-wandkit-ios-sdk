@@ -11,7 +11,12 @@ let package = Package(
     products: [
         .library(
             name: "NativeblocksWandkit",
+            type: .dynamic,
             targets: ["NativeblocksWandkit"]
+        ),
+        .library(
+            name: "Wandkit",
+            targets: ["Wandkit"]
         ),
     ],
     dependencies: [
