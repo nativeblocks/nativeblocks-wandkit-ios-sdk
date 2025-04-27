@@ -12,7 +12,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
     dependencies: [
         .package(
             url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk.git",
-            .upToNextMajor(from: "1.0.0")
+            .upToNextMajor(from: "1.0.1")
         ),
     ],
     ```
@@ -26,11 +26,8 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
 3. Initialize nativeblocks wandkit : 
 
     ```swift
-    let bundleId = Bundle.main.bundleIdentifier ?? ""
     _ = NativeblocksManager.getInstance().wandKit(
         LiveKit(
-            screenSharing: true,
-            screenShareExtention: "\(bundleId).LiveKitExtention",
             keepScreenOn: true,
             autoConnect: false
         )
@@ -63,8 +60,6 @@ struct SampleApp: App {
             let bundleId = Bundle.main.bundleIdentifier ?? ""
             _ = NativeblocksManager.getInstance().wandKit(
                 LiveKit(
-                    screenSharing: true,
-                    screenShareExtention: "\(bundleId).LiveKitExtention",
                     keepScreenOn: true,
                     autoConnect: false
                 )

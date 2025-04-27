@@ -1,0 +1,6 @@
+framework module NativeblocksWandKit {
+  umbrella header "NativeblocksWandKit.h"
+  export *
+
+  module * { export * }
+}
