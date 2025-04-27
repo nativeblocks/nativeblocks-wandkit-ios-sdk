@@ -1,30 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "agorainfra_ios",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AgoraIO/AgoraInfra_iOS.git",
-      "state" : {
-        "revision" : "c2781d81a1ac78b94fefd53171975acb426b6ac5",
-        "version" : "1.2.13"
-      }
-    },
-    {
-      "identity" : "agorartcengine_ios",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AgoraIO/AgoraRtcEngine_iOS.git",
-      "state" : {
-        "revision" : "26ecb3247b017cd17412b5e0922a049a0ac98815",
-        "version" : "4.5.0"
-      }
-    },
-    {
       "identity" : "nativeblocks-ios-sdk",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nativeblocks/nativeblocks-ios-sdk.git",
       "state" : {
-        "revision" : "f4490cc34662e5f9269d4b593c977959ed18e974",
-        "version" : "1.2.0"
+        "revision" : "bf8f828442b970f1a9f8dcf5e5dc71928c44d62d",
+        "version" : "1.3.1"
       }
     }
   ],

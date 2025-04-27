@@ -15,8 +15,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk.git", from: "1.2.0"),
-        .package(url: "https://github.com/AgoraIO/AgoraRtcEngine_iOS.git", from: "4.5.0"),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", .upToNextMajor(from: "1.3.1")),
     ],
     targets: [
         .binaryTarget(
@@ -28,8 +27,6 @@ let package = Package(
             dependencies: [
                 "NativeblocksWandKit",
                 .product(name: "Nativeblocks", package: "nativeblocks-ios-sdk"),
-                .product(name: "RtcBasic", package: "AgoraRtcEngine_iOS", condition: .when(platforms: [.iOS])),
-                .product(name: "ReplayKit", package: "AgoraRtcEngine_iOS", condition: .when(platforms: [.iOS])),
             ],
             path: "./Sources/Empty"
         )
