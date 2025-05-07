@@ -8,13 +8,17 @@
 		<data>
 		hZiLGvMot4n1WOShajNT23pWQsc=
 		</data>
+		<key>Headers/NativeblocksWandKit.h</key>
+		<data>
+		FPTdH67tQKLpEdh7Xzc5LCiQegg=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		FrvqOeOL4OOXNHR1v/ESCJ2uAdY=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Pvy/SVWBGSrn9IIfFyUyQkMrcK8=
+		+WOEXXBSMvn15AvB6frxGFhcrQQ=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +34,11 @@
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kkPyq2/EujRwXhxNqwQ4xESaCQc=
+		uluJqWYkNFmTsk20TI7bzfa9/LY=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Pvy/SVWBGSrn9IIfFyUyQkMrcK8=
+		+WOEXXBSMvn15AvB6frxGFhcrQQ=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +54,7 @@
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JP7ETSvlnc8baK5xMkMYOPSMnlA=
+		9ov2zzSGqgRI3LPui4OqebSTTtk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -62,11 +66,18 @@
 			ZRT5tgSy0nQPU1bUPvMaAyF95t+zx9q1nO2cP8WD/To=
 			</data>
 		</dict>
+		<key>Headers/NativeblocksWandKit.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T20K5L2PZkESwp6ZihJ+45KC0aOh2j/wx2Jf6W5VAwU=
+			</data>
+		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSQK7pCdZYTUB+wWJU50LpcmdTlOP8nerAp/54jSl1U=
+			YZfQuS+1qcNxVRczyeO6MzNu0i+Y8eHCS/yBZdyjO0k=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -94,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZbNMBWsBpnD0SIgiiKBZQt2059jUSzP8mLNuHnNG2c=
+			P3+257Owxr9bCpjx+LUfYOjdtLJ5cZmEtZQD2gcfjL0=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSQK7pCdZYTUB+wWJU50LpcmdTlOP8nerAp/54jSl1U=
+			YZfQuS+1qcNxVRczyeO6MzNu0i+Y8eHCS/yBZdyjO0k=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -129,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ulAT/Sku/7fx/ZVDEXpBdf4vYQKL5Ji2gCV/D3AFOuc=
+			nUAK+eNztVBc13me/cesdTXRaAbfy2lnveLYIvThruI=
 			</data>
 		</dict>
 	</dict>
