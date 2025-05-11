@@ -20,7 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NativeblocksWandKit",
-            path: "./NativeblocksWandKit.xcframework"
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/version/NativeblocksWandKit.xcframework.zip",
+            checksum: "e4a6beb83153712f331c55212790f712d5e42a54afad6802bdd33916b0808545"
         ),
         .target( 
             name: "NativeblocksWandKitPrivate",
