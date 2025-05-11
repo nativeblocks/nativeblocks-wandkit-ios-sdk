@@ -6,6 +6,104 @@
     "children": [
       {
         "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "ReplayKit",
+        "printedName": "ReplayKit",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
         "name": "AVFoundation",
         "printedName": "AVFoundation",
         "declKind": "Import",
@@ -29,195 +127,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Nativeblocks",
-        "printedName": "Nativeblocks",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "NativeblocksWandKit"
-      },
-      {
-        "kind": "Import",
-        "name": "UserNotifications",
-        "printedName": "UserNotifications",
         "declKind": "Import",
         "moduleName": "NativeblocksWandKit"
       },
@@ -387,6 +296,20 @@
       },
       {
         "kind": "Import",
+        "name": "Nativeblocks",
+        "printedName": "Nativeblocks",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
         "name": "Combine",
         "printedName": "Combine",
         "declKind": "Import",
@@ -401,8 +324,15 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "NativeblocksWandKit"
       },
@@ -436,8 +366,29 @@
       },
       {
         "kind": "Import",
-        "name": "ReplayKit",
-        "printedName": "ReplayKit",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "NativeblocksWandKit"
       },
@@ -454,11 +405,200 @@
         "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UserNotifications",
+        "printedName": "UserNotifications",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NativeblocksWandKit"
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 116,
+      "length": 16,
+      "value": "\"LiveRepository\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 576,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 1572,
+      "length": 8,
+      "value": "\"studio\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 233,
+      "length": 6,
+      "value": "\"NONE\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 259,
+      "length": 9,
+      "value": "\"CONNECT\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 12,
+      "value": "\"CONNECTING\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 13,
+      "value": "\"NOT_CONNECT\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 363,
+      "length": 14,
+      "value": "\"AUTH_REQUIRE\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 538,
+      "length": 6,
+      "value": "\"AUTH\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 562,
+      "length": 7,
+      "value": "\"START\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 589,
+      "length": 9,
+      "value": "\"CONNECT\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 621,
+      "length": 12,
+      "value": "\"DISCONNECT\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 652,
+      "length": 8,
+      "value": "\"LOGOUT\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 677,
+      "length": 6,
+      "value": "\"STOP\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 22,
+      "value": "\"NOTIFICATION_DELETED\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/ScreenSharingAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 96,
+      "length": 20,
+      "value": "\"ScreenSharingAlert\""
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/util\/WandLog.swift",
+      "kind": "BooleanLiteral",
+      "offset": 83,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/di\/LiveModule.swift",
+      "kind": "StringLiteral",
+      "offset": 99,
+      "length": 41,
+      "value": "\"io.nativeblocks.wandkit.livemodule.lock\""
+    },
     {
       "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/auth\/presenter\/AuthViewModel.swift",
       "kind": "StringLiteral",
@@ -467,11 +607,18 @@
       "value": "\"AuthViewModel\""
     },
     {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/di\/LiveModule.swift",
-      "kind": "StringLiteral",
-      "offset": 99,
-      "length": 41,
-      "value": "\"io.nativeblocks.wandkit.livemodule.lock\""
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/api\/LiveKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 908,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/api\/LiveKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 934,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveViewModel.swift",
@@ -670,13 +817,6 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveService.swift",
-      "kind": "StringLiteral",
-      "offset": 203,
-      "length": 13,
-      "value": "\"LiveService\""
-    },
-    {
       "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/auth\/presenter\/AuthUIState.swift",
       "kind": "BooleanLiteral",
       "offset": 60,
@@ -689,6 +829,13 @@
       "offset": 93,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveService.swift",
+      "kind": "StringLiteral",
+      "offset": 203,
+      "length": 13,
+      "value": "\"LiveService\""
     },
     {
       "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/SignalingModel.swift",
@@ -740,146 +887,6 @@
       "value": "\"Studio\""
     },
     {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/util\/OrientationUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 77,
-      "length": 27,
-      "value": "\"OrientationChangeListener\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/api\/LiveKit.swift",
-      "kind": "BooleanLiteral",
-      "offset": 908,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/api\/LiveKit.swift",
-      "kind": "BooleanLiteral",
-      "offset": 934,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
-      "kind": "StringLiteral",
-      "offset": 116,
-      "length": 16,
-      "value": "\"LiveRepository\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
-      "kind": "StringLiteral",
-      "offset": 530,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
-      "kind": "StringLiteral",
-      "offset": 576,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
-      "kind": "StringLiteral",
-      "offset": 617,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/data\/LiveRepositoryImpl.swift",
-      "kind": "StringLiteral",
-      "offset": 1572,
-      "length": 8,
-      "value": "\"studio\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 233,
-      "length": 6,
-      "value": "\"NONE\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 259,
-      "length": 9,
-      "value": "\"CONNECT\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 291,
-      "length": 12,
-      "value": "\"CONNECTING\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 326,
-      "length": 13,
-      "value": "\"NOT_CONNECT\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 363,
-      "length": 14,
-      "value": "\"AUTH_REQUIRE\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 538,
-      "length": 6,
-      "value": "\"AUTH\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 562,
-      "length": 7,
-      "value": "\"START\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 589,
-      "length": 9,
-      "value": "\"CONNECT\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 621,
-      "length": 12,
-      "value": "\"DISCONNECT\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 652,
-      "length": 8,
-      "value": "\"LOGOUT\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 677,
-      "length": 6,
-      "value": "\"STOP\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/LiveState.swift",
-      "kind": "StringLiteral",
-      "offset": 715,
-      "length": 22,
-      "value": "\"NOTIFICATION_DELETED\""
-    },
-    {
       "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/auth\/data\/AuthRepositoryImpl.swift",
       "kind": "StringLiteral",
       "offset": 157,
@@ -887,18 +894,11 @@
       "value": "\"AuthRepository\""
     },
     {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/feature\/live\/presenter\/ScreenSharingAlert.swift",
+      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/util\/OrientationUtils.swift",
       "kind": "StringLiteral",
-      "offset": 96,
-      "length": 20,
-      "value": "\"ScreenSharingAlert\""
-    },
-    {
-      "filePath": "\/Users\/alidonyaie\/workspace\/test\/Nativeblocks\/NativeblocksWandKit\/util\/WandLog.swift",
-      "kind": "BooleanLiteral",
-      "offset": 83,
-      "length": 5,
-      "value": "false"
+      "offset": 77,
+      "length": 27,
+      "value": "\"OrientationChangeListener\""
     }
   ]
 }

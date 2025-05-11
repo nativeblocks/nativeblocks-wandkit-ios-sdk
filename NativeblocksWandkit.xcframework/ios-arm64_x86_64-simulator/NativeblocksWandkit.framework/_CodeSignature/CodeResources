@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+WOEXXBSMvn15AvB6frxGFhcrQQ=
+		bU/eSh7fJpt8sP+qyp0WCLWjm6s=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uluJqWYkNFmTsk20TI7bzfa9/LY=
+		OXBgKkJadrvzcWi365rtkIkYlcw=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+WOEXXBSMvn15AvB6frxGFhcrQQ=
+		bU/eSh7fJpt8sP+qyp0WCLWjm6s=
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,11 @@
 		</data>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9ov2zzSGqgRI3LPui4OqebSTTtk=
+		Xe30M7wbDEmLro2ZI0udTYQCcB4=
+		</data>
+		<key>build-wandkit-xcframework.sh</key>
+		<data>
+		YGRRltTR4XHe7i3mh2dFkruBZTU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -77,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YZfQuS+1qcNxVRczyeO6MzNu0i+Y8eHCS/yBZdyjO0k=
+			s/+3b14Z5dz0cC8ItBs0ZDBm1lVz3MM+CVzmxZVzGNg=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -105,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3+257Owxr9bCpjx+LUfYOjdtLJ5cZmEtZQD2gcfjL0=
+			rPrnpT/vaK3i+wk6w7H0Kr350tIXGCzo9a02MBprpas=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YZfQuS+1qcNxVRczyeO6MzNu0i+Y8eHCS/yBZdyjO0k=
+			s/+3b14Z5dz0cC8ItBs0ZDBm1lVz3MM+CVzmxZVzGNg=
 			</data>
 		</dict>
 		<key>Modules/NativeblocksWandKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -140,7 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nUAK+eNztVBc13me/cesdTXRaAbfy2lnveLYIvThruI=
+			rcN3U6xzn72bOYiplgZ4uu10B4fYOr5TQYltOwey5rc=
+			</data>
+		</dict>
+		<key>build-wandkit-xcframework.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mfGwwp7R+yAaI7wTz/2Kkd6x4XaBNX21plk/g7sCVYk=
 			</data>
 		</dict>
 	</dict>
