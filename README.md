@@ -12,7 +12,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
     dependencies: [
         .package(
             url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk.git",
-            .upToNextMajor(from: "1.0.1")
+            .upToNextMajor(from: "1.0.3")
         ),
     ],
     ```
