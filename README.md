@@ -12,7 +12,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
     dependencies: [
         .package(
             url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk.git",
-            .upToNextMajor(from: "1.0.3")
+            .upToNextMajor(from: "1.0.4")
         ),
     ],
     ```
@@ -26,12 +26,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
 3. Initialize nativeblocks wandkit : 
 
     ```swift
-    _ = NativeblocksManager.getInstance().wandKit(
-        LiveKit(
-            keepScreenOn: true,
-            autoConnect: false
-        )
-    )
+    _ = NativeblocksManager.getInstance().wandKit(LiveKit(keepScreenOn: true, autoConnect: false))
     ```
 
 ### Sample App Example
@@ -44,7 +39,7 @@ import SwiftUI
 @main
 struct SampleApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
-    let NATIVEBLOCKS_API_ENDPOINT = "https://api.nativeblocks.io/graphql"
+    let NATIVEBLOCKS_API_ENDPOINT = "https://api.nativeblocks.io/gateway/init"
     let NATIVEBLOCKS_API_KEY = ""
 
     init() {
