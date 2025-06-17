@@ -15,13 +15,13 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", .upToNextMajor(from: "1.3.2")),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", .upToNextMajor(from: "1.4.0")),
     ],
     targets: [
         .binaryTarget(
             name: "NativeblocksWandKit",
-            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.0.3/NativeblocksWandKit.xcframework.zip",
-            checksum: "3445ff372f58cb4b8dca5bbb2c593f5f137f72e29d938752ad0b3ae0fc6db30c"
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.0.4/NativeblocksWandKit.xcframework.zip",
+            checksum: "85d4350460b614ce56e1116f23e240f4fed7500ca810bb9ada03a099e246dbdc"
         ),
         .target( 
             name: "NativeblocksWandKitPrivate",
