@@ -1,18 +1,18 @@
-# NativeblocksWandKit iOS SDK
+# NativeblocksWandkit iOS SDK
 
 Please check [Nativeblocks livekit](https://nativeblocks.io/docs/live-kit/swift/) for full implementation,
 
 ## Getting Started
 
-To integrate **NativeblocksWandKit** into your project, add it via Swift Package Manager (SPM):
+To integrate **NativeblocksWandkit** into your project, add it via Swift Package Manager (SPM):
 
 1. Add the library to your `Package.swift` file:
 
     ```swift
     dependencies: [
         .package(
-            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk.git",
-            .upToNextMajor(from: "1.0.6")
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk",
+            .upToNextMajor(from: "1.0.7")
         ),
     ],
     ```
@@ -20,7 +20,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
 2. Import the library in your Swift file:
 
     ```swift
-    import NativeblocksWandKit
+    import NativeblocksWandkit
     ```
 
 3. Initialize nativeblocks wandkit : 
@@ -33,7 +33,7 @@ To integrate **NativeblocksWandKit** into your project, add it via Swift Package
 
 ```swift
 import Nativeblocks
-import NativeblocksWandKit
+import NativeblocksWandkit
 import SwiftUI
 
 @main

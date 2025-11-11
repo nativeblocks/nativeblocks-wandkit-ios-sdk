@@ -4,29 +4,29 @@
 import PackageDescription
 
 let package = Package(
-    name: "NativeblocksWandKit",
+    name: "NativeblocksWandkit",
     platforms: [
         .iOS(.v15)
     ],
     products: [
         .library(
-            name: "NativeblocksWandKit",
-            targets: ["NativeblocksWandKitPrivate"]
+            name: "NativeblocksWandkit",
+            targets: ["NativeblocksWandkitPrivate"]
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", .upToNextMajor(from: "1.5.0")),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", .upToNextMajor(from: "1.7.0")),
     ],
     targets: [
         .binaryTarget(
-            name: "NativeblocksWandKit",
-            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.0.6/NativeblocksWandKit.xcframework.zip",
-            checksum: "ca9f7e40ab045321bd4a35d4899e96e330da50874faed9ef1a2b775d16c4f4c5"
+            name: "NativeblocksWandkit",
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.0.7/NativeblocksWandkit.xcframework.zip",
+            checksum: "2bc6f1a7be20c18dce385a46bf8a200d50b723d6cf74b6b7a26d31aa69b5d88b"
         ),
-        .target( 
-            name: "NativeblocksWandKitPrivate",
+        .target(
+            name: "NativeblocksWandkitPrivate",
             dependencies: [
-                "NativeblocksWandKit",
+                "NativeblocksWandkit",
                 .product(name: "Nativeblocks", package: "nativeblocks-ios-sdk"),
             ],
             path: "./Sources/Empty"
