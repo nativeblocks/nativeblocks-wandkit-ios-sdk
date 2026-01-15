@@ -5,9 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "NativeblocksWandkit",
-    platforms: [
-        .iOS(.v15)
-    ],
+    platforms: [.macOS(.v13), .iOS(.v15)],
     products: [
         .library(
             name: "NativeblocksWandkit",
@@ -20,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NativeblocksWandkit",
-            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.1.0/NativeblocksWandkit.xcframework.zip",
-            checksum: "5cb06c43059fe65e15afa0e5f5914b4d6077b825c7b06467d12b581905b1df66"
+            url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk/releases/download/1.1.1/NativeblocksWandkit.xcframework.zip",
+            checksum: "b2e9cf8a5d4c8a29e8c43cfd8f2947a4ec6092b53036d02c67a6a0e77d0d2dd9"
         ),
         .target(
             name: "NativeblocksWandkitPrivate",
